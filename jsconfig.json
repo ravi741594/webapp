@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/sharedComponents/*": ["/sharedComponents/*"],
+      "@/validation/*": ["/validation/*"],
+      "@/images/*": ["/images/*"],
+      "@/reducer/*": ["/reducer/*"],
+      "@/svg/*": ["/svg/*"],
+      "@/pages/*": ["/pages/*"],
+      "@/styles/*": ["/styles/*"],
+      "@/lib/*": ["/lib/*"],
+      "@/config/*": ["/config/*"],
+      "@/utils/*": ["/utils/*"],
+    }
+  }
+ }
